@@ -28,6 +28,7 @@
 <br/>
 
 https://github.com/Diego-S-G/MyToDoList/assets/140908243/1a5c7eda-5145-4a17-8050-51d40ef687ac
+
 <br/>
 
 Já de início nos deparamos com o tema principal deste projeto: Gatos! Quem não gosta de gatos não é mesmo?
@@ -41,6 +42,7 @@ Ao ir para a sua lista, você pode criar uma tarefa a ser concluída.
 <br/>
 
 https://github.com/Diego-S-G/MyToDoList/assets/140908243/21f414ab-be0e-464c-9b34-27564502bea7
+
 <br/>
 
 Ao adicionar sua tarefa, você pode finalizá-la, editá-la ou apagá-la. Este vídeo foca nas duas últimas.
@@ -52,6 +54,7 @@ Ao adicionar sua tarefa, você pode finalizá-la, editá-la ou apagá-la. Este v
 <br/>
 
 https://github.com/Diego-S-G/MyToDoList/assets/140908243/00bd4d7d-f905-48ff-a558-6679621cd6f4
+
 <br/>
 
 Ao finalizar suas tarefas, elas ficarão na lista de finalizadas, caso você precise ver quais finalizou ou algo do tipo. Melhor ter do que não ter né?
@@ -63,6 +66,7 @@ Ao finalizar suas tarefas, elas ficarão na lista de finalizadas, caso você pre
 <br/>
 
 https://github.com/Diego-S-G/MyToDoList/assets/140908243/d5d72e5a-7543-46f6-803d-6fbe5902b44b
+
 <br/>
 
 Na lista de finalizados, você poderá deletar apenas uma tarefa ou todas, caso desejar.
